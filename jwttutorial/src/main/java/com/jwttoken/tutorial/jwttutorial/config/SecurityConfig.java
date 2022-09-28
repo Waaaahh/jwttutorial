@@ -1,4 +1,4 @@
-package com.jwttoken.tutorial.config;
+package com.jwttoken.tutorial.jwttutorial.config;
 
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
